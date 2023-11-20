@@ -17,7 +17,7 @@ class MainApp extends StatelessWidget {
         body: Center(
           child: SleekCircularSlider(
             appearance: CircularSliderAppearance(
-              size: 200,
+              size: 100,
             ),
           ),
         ),
